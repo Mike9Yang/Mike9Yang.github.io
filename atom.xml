@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-23T01:44:35.841Z</updated>
+  <updated>2020-02-23T13:45:10.034Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first post</title>
+    <link href="http://yoursite.com/2020/02/23/my-first-post/"/>
+    <id>http://yoursite.com/2020/02/23/my-first-post/</id>
+    <published>2020-02-23T13:31:27.000Z</published>
+    <updated>2020-02-23T13:45:10.034Z</updated>
+    
+    <content type="html"><![CDATA[<p>#让我们开始学习markdown基本教程吧！<br>##“#”个数与标题大小成反比<br><em>那么我今天都做了些什么事情呢？</em>  建立一个分隔线***<br><del>我其实一点都不胖，甚至还很帅</del><br><u>最近真的有在减肥，脸上的肉肉有点多了呢</u><br>那么今天就来给明天制定一个[^小目标]<br>[^小目标]：明天争取不变胖</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#让我们开始学习markdown基本教程吧！&lt;br&gt;##“#”个数与标题大小成反比&lt;br&gt;&lt;em&gt;那么我今天都做了些什么事情呢？&lt;/em&gt;  建立一个分隔线***&lt;br&gt;&lt;del&gt;我其实一点都不胖，甚至还很帅&lt;/del&gt;&lt;br&gt;&lt;u&gt;最近真的有在减肥，脸上的肉肉有点多了呢&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
